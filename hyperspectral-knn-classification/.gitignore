@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System
+.DS_Store
+
+# Results - uncomment if you don't want to track results
+# results/
