@@ -7,6 +7,7 @@ A collection of projects from my Pattern Recognition course at university.
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [spectral-continuum-removal](./spectral-continuum-removal) | Spectral signature continuum removal using convex hull method for hyperspectral data analysis |
+| 2 | [hyperspectral-distance-metrics](./hyperspectral-distance-metrics) | Hyperspectral image classification using various distance and similarity metrics (SAM, SCC, Euclidean, etc.) |
 
 ## License
 
